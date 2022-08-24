@@ -251,3 +251,5 @@ blocking_functions_mapping["books"] = block_books
 blocking_functions_mapping["baby_products"] = block_baby_products
 blocking_functions_mapping["restaurants"] = block_restaurants
 blocking_functions_mapping['wa'] = block_wa
+
+blocking_functions_mapping["yt_music_move"] = generic_blocking_func
