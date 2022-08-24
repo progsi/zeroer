@@ -254,3 +254,4 @@ blocking_functions_mapping['wa'] = block_wa
 
 blocking_functions_mapping["yt_music_move"] = generic_blocking_func
 blocking_functions_mapping["yt_music_annotated"] = generic_blocking_func
+blocking_functions_mapping["yt_music_move_sampled"] = generic_blocking_func
